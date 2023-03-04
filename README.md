@@ -6,7 +6,7 @@ AI Chatbot using OpenAI's GPT-3 and Whisper to return meaningful responses to au
 git clone https://github.com/Amo-Addai/py-chatgpt.git
 ```
 ```
-cd py-chatgpt && pip3 install -r requirements.txt
+cd py-chatgpt && pip install -r requirements.txt
 ```
 
 # Set Env Vars
@@ -16,5 +16,5 @@ OPENAI_API_KEY=API_KEY_HERE
 
 # Quick Start
 ```
-python3 main.py
+python main.py
 ```
